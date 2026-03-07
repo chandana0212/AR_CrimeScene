@@ -130,6 +130,6 @@ Backend base URL (default): `http://localhost:8000`
 
 ## Team
 
-**Team Quadrix – Harshita R, Hima Parvathi A, Chandana S, Harini B
+**Team Quadrix** – Harshita R, Hima Parvathi A, Chandana S, Harini B
 Project title: **“When Memory Cannot Be Trusted” – AI‑Powered Memory Distortion Simulator**. 
 ```
