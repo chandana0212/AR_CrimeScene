@@ -1,7 +1,6 @@
 # AI‑Powered Crime Scene Memory Distortion Simulator
 
 A full‑stack experiment to study how **eyewitness memory** changes under misinformation in a virtual crime scene. Participants first view an original scene, then a subtly modified version, and finally answer recall questions so the system can measure accuracy, suggestibility, and memory distortion.
-
 ---
 
 ## Overview
